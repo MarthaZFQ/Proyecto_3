@@ -1,0 +1,30 @@
+
+!!!!!
+
+A la hora de modificar/crear usuarios o recursos, las imagenes subidas se almacenan en la siguiente ruta:
+
+C:\xampp\htdocs\DAW2\Proyecto03\img
+
+Para poder subir imagenes correctamente ha de cambiar esta ruta o bien poner en la siguiente ruta
+la carpeta del Proyecto03:
+
+C:\xampp\htdocs\DAW2\Proyecto03
+
+!!!!!
+
+USUARIOS:
+
+Ejemplo de usuario nivel usuario:
+
+Nombre: irene@gmail.com
+Password: 1234
+
+Ejemplo de usuario nivel administrador:
+
+Nombre: alex@gmail.com
+Password: qweQWE123
+
+Ejemplo de usuario nivel superadministrador:
+
+Nombre: davidmarin@gmail.com
+Passowrd: 1234
